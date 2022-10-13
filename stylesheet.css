@@ -124,6 +124,10 @@ body.active .wrapper .section{
     color: rgb(5, 68, 104);  
 
   }
+  .pagesHeaders{
+    color: navy;
+    margin-left: 20px;
+  }
   /* back ground image on idex page*/
   .center {
     display: block;
